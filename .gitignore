@@ -1,0 +1,20 @@
+# Python specific
+__pycache__/
+*.py[cod]
+
+# Dependency directories
+.env/
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
